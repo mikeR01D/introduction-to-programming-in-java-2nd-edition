@@ -1,1 +1,3 @@
-# introduction-to-programming-in-java-2nd-edition
+# Introduction to Programming in Java, 2nd Edition
+# Robert Sedgewick
+
