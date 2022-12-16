@@ -1,0 +1,8 @@
+1. identifiers are names of variables.
+2. literals are values of data types.
+3. variables are entities used to store java data-type values. usually, they are usually of one type, of which only values of that
+        type can be stored in them. 
+4. declaration statement is java-code used to initialize a variable prior its utilization. it consists of a data type followed by 
+    its variable name or identifier.
+5. assignment statement is a line of java code that attaches a data-type value to a variable. you already know what such looks like.
+6?. Language mechanism you could use to invoke a given operation? 
