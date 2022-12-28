@@ -1,4 +1,4 @@
-public class ex121
+public class ex1_2_1
 {
     public static void main(String[] args)
     {
